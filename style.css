@@ -1,0 +1,51 @@
+.heading
+{
+width: 100%;
+text-align: center;
+font-size: 35px;
+font-family: 'Lobster Two', cursive;
+}
+.heading h3{
+    display: inline;
+    font-size: 30px;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+    font-size: 30px;
+    font-family: 'Lobster Two', cursive;
+}
+
+#start ,#status, #restart
+{
+font-size: 22px;
+font-family: 'Lobster Two', cursive;
+}
+
+.modal-dialog
+{
+    width: 70%;
+    font-size: 22px;
+    font-family: 'Lobster Two', cursive;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Lobster Two', cursive;
+}
+h4
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+   font-size: 22px;
+   font-family: 'Lobster Two', cursive;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
